@@ -1,7 +1,7 @@
 # Discovery - Ebay API Test
 
-#### Acceptance Criteria:
-Landing page should have:
+#### Criteria:
+Landing page has:
 + A featured auction
 + 10 additional auctions, listed by “ending soonest”
 + User needs to have a means to sort auctions; ending soonest, highest price, cheapest price
